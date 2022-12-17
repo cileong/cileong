@@ -1,5 +1,4 @@
 <samp>
-    <br>
     Ci Leong ONG
     <br>
     Deep Learning Intern @ Aiology
