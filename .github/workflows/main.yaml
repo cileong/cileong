@@ -1,0 +1,27 @@
+# Re-render README every hour or on any pushes to master.
+
+name: README render
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+  push:
+    branches:
+      - master
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python main.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update README display data"
