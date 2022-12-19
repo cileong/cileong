@@ -14,7 +14,7 @@ TIMEZONE = timezone("Asia/Kuala_Lumpur")
 dt = datetime.now(TIMEZONE)
 STATUS = (
     "Working 💻"
-    if dt.weekday() in range(1, 6) and dt.hour in range(9, 19)
+    if dt.isoweekday() in range(1, 6) and dt.hour in range(9, 19)
     else "Off work 💤"
 )
 
