@@ -3,6 +3,6 @@
     <br>
     Deep Learning Intern @ Aiology
     <br>
-    Off work 💤
+    Working 💻
     <br>
 </samp>
