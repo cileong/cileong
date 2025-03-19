@@ -23,7 +23,7 @@ DATA = {
     "fname": FNAME.title(),
     "lname": LNAME.upper(),
     "position": POSITION.title(),
-    "company": COMPANY.title(),
+    "company": COMPANY,
     "status": STATUS.capitalize(),
 }
 
