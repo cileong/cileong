@@ -1,7 +1,7 @@
 <samp>
     Ci Leong ONG
     <br>
-    Deep Learning Intern @ Aiology
+    Software Engineer @ Dcmoto
     <br>
     Working 💻
     <br>
