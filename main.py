@@ -7,14 +7,14 @@ from pathlib import Path
 FNAME = "Ci Leong"
 LNAME = "Ong"
 
-POSITION = "Deep Learning Intern"
-COMPANY = "Aiology"
+POSITION = "Software Engineer"
+COMPANY = "DCMOTO"
 
 TIMEZONE = timezone("Asia/Kuala_Lumpur")
 dt = datetime.now(TIMEZONE)
 STATUS = (
     "Working 💻"
-    if dt.isoweekday() in range(1, 6) and dt.hour in range(9, 19)
+    if dt.isoweekday() in range(1, 6) and dt.hour in range(9, 18)
     else "Off work 💤"
 )
 
