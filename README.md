@@ -1,7 +1,7 @@
 <samp>
     Ci Leong ONG
     <br>
-    Software Engineer @ Dcmoto
+    Software Engineer @ DCMOTO
     <br>
     Working 💻
     <br>
