@@ -3,6 +3,6 @@
     <br>
     Software Engineer @ DCMOTO
     <br>
-    Working 💻
+    Off work 💤
     <br>
 </samp>
