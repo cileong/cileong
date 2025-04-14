@@ -1,7 +1,7 @@
 <samp>
     Ci Leong ONG
     <br>
-    Software Engineer @ DCMOTO
+    Software Engineer @ Digicraft MSC Sdn. Bhd.
     <br>
     Off work 💤
     <br>
