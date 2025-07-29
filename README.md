@@ -3,6 +3,6 @@
     <br>
     Software Engineer @ Digicraft MSC Sdn. Bhd.
     <br>
-    Off work 💤
+    Working 💻
     <br>
 </samp>
