@@ -1,7 +1,7 @@
 <samp>
     Ci Leong ONG
     <br>
-    Software Engineer @ Digicraft MSC Sdn. Bhd.
+    Software Engineer @ MoneyLion Inc.
     <br>
     Off work 💤
     <br>
