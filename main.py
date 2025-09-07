@@ -8,7 +8,7 @@ FNAME = "Ci Leong"
 LNAME = "Ong"
 
 POSITION = "Software Engineer"
-COMPANY = "Digicraft MSC Sdn. Bhd."
+COMPANY = "MoneyLion Inc."
 
 TIMEZONE = timezone("Asia/Kuala_Lumpur")
 dt = datetime.now(TIMEZONE)
