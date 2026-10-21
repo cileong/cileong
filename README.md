@@ -3,6 +3,6 @@
     <br>
     Software Engineer @ MoneyLion Inc.
     <br>
-    Off work 💤
+    Working 💻
     <br>
 </samp>
